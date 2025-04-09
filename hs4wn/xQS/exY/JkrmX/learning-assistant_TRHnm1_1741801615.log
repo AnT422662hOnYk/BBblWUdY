@@ -1,5 +1,4 @@
 push:
-	git add . && codegpt commit . && git push
 
 update-submodules:
 	git pull --recurse-submodules
