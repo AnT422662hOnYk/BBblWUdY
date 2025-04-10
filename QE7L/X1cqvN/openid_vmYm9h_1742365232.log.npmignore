@@ -3,7 +3,6 @@ Makefile
 SPONSORS.md
 docs/
 examples/
-reports/
 test/
 
 .github/
